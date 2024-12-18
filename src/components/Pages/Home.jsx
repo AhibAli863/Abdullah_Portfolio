@@ -18,12 +18,12 @@ const HeroSection = () => {
         <div>
                 <h1 className="text-3xl sm:text-xl text-blue-600 font-bold max-sm:text-xl">
                 <Typewriter
-                    words={['Frontend Developer','REACT JS' ,'TAILWIND CSS','MERN STACK To Be','Built a multi projects']}
+                    words={['Frontend Developer','REACT JS' ,'TAILWIND CSS','Built a multi projects']}
                     loop={true}
                     cursor
                     cursorStyle='|'
-                    typeSpeed={140}
-                    deleteSpeed={70}
+                    typeSpeed={150}
+                    deleteSpeed={100}
                     delaySpeed={1000}
                     />
                     </h1> 

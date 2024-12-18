@@ -8,6 +8,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
+    scroll-behavior: smooth;
 }
 
 *::selection{
@@ -43,6 +44,7 @@ abbr[data-title]:hover::after {
         flex-direction: column;
         font-size: large;
         gap: 30px;
+        
     }
 
     /* #home{

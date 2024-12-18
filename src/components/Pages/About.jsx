@@ -16,7 +16,7 @@ const About = () => {
             <p className='text-gray-300 max-sm:text-sm'>Hey, I'm Abdullah, an accomplished Frontend Developer with extensive expertise in HTML , CSS , JAVASCRIPT , TAILWIND , BOOTSTRAP , GSAP Animation , basic React JS With successful projects, I am dedicated to delivering high-quality results on time and collaborating effectively to achieve your project goals. Let's connect to turn your vision into reality!</p>
 
         <div className='mt-12 font-bold text-slate-50'>
-        <NavLink to="https://wa.me/923303482334" target='_blank' className='border border-blue-700 bg-blue-700 p-5 rounded hover:bg-transparent transition-all delay-100 max-sm:p-3 max-sm:text-sm'>Let's work Together</NavLink>
+        <NavLink to="https://wa.me/923303482334" target='_blank' className='border border-blue-700 bg-blue-700 p-5 rounded hover:bg-transparent max-sm:p-3 max-sm:text-sm hover:bg-blue-700 transition-all delay-100 hover:delay-200 hover:shadow-2xl hover:shadow-blue-700 hover:rounded-lg'>Let's work Together</NavLink>
             </div>
         </div>
 
