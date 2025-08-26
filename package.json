@@ -1,5 +1,5 @@
 {
-  "homepage": "https://AhibAli863.gtihub.io/Abdullah_Portfolio/",
+  "homepage": "",
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
+    "deploy": "npm run build && vercel --prod",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
@@ -23,8 +24,7 @@
     "react-router-dom": "^6.28.0",
     "react-router-hash-link": "^2.4.3",
     "react-simple-typewriter": "^5.0.1",
-    "typewriter-effect": "^2.21.0",
-    "vercel": "^39.2.2"
+    "typewriter-effect": "^2.21.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",

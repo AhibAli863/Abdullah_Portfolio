@@ -12,21 +12,25 @@ const Portfolio = () => {
 
         {
             name: "Waleed's Porfolio",
-            src: "https://upload.wikimedia.org/wikipedia/commons/8/83/WALEED_Logo.png",
+            src: "https://cdn.dribbble.com/userupload/8785642/file/original-6b47f542afbf4e353285fe85882b421c.jpg?resize=400x0",
             href:"https://waleedportfolio-72e04.web.app/"
 
         },
         {
-            name: "Ochi Clone",
-            src: "https://static.wixstatic.com/media/491e5d_b16b78bbd0934a69a4cda06bc99386fb~mv2.png"
+            name: "Ality",
+            src: "https://ality.co.uk/wp-content/uploads/2018/12/AlityLogowhite-footer-retina.png",
+            href:"https://ality-88349.web.app/"
         },
         {
             name: "Barbereo",
-            src: "https://images.fresha.com/locations/location-profile-images/8464/2110416/9096723d-4454-44a3-aaf4-299c71666a34-BarberoGentlemensLounge2-AE-Dubai-Fresha.jpg?class=venue-gallery-small"
+            src: "https://images.fresha.com/locations/location-profile-images/8464/2110416/9096723d-4454-44a3-aaf4-299c71666a34-BarberoGentlemensLounge2-AE-Dubai-Fresha.jpg?class=venue-gallery-small",
+            href:"https://barber-e1f2e.web.app/"
+    
         },
         {
             name: "Vehicle Inventory",
-            src: "https://img.freepik.com/free-vector/gradient-car-wash-logo-design_23-2149914534.jpg?semt=ais_hybrid"
+            src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0x7NWLIt-d9JnxyYDChNjcREs-XnOVN-z7g&s",
+            href:"https://internee-clone.web.app/"
         },
         
     ]

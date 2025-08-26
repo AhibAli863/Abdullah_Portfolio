@@ -7,9 +7,6 @@ const About = () => {
     <div id='about' className='mt-28 max-sm:mt-8'>
         <h1 className='text-center font-bold text-slate-50 text-5xl py-16 max-sm:text-3xl'>About Me</h1>
         <div className='About_section px-60 flex items-center justify-center py-12 max-sm:px-5 max-sm:flex-wrap max-sm:gap-5 max-md:px-20 max-md:flex-wrap max-lg:flex-wrap max-lg:px-32 max-lg:gap-10 max-xl:flex-wrap'>
-        <div className='overflow-hidden h-full w-full cursor-pointer hover:scale-90 transition-all delay-100 max-sm:h-auto max-sm:w-72 max-md:h-auto max-md:w-64 max-lg:w-52 max-xl:w-60'>
-            <img src={About_Image} alt="Ahib" className='rounded-xl w-full h-full' />
-        </div>
         <div className='About-section-para px-24 max-sm:px-1 max-lg:px-0'>
             <h1 className='font-semibold text-3xl text-slate-50 flex flex-col py-3 max-sm:text-2xl'>Need a Creative
                 <span> Product? I can Help You!</span></h1>
